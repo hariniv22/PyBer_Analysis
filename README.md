@@ -29,4 +29,4 @@ The main purpose of this analysis is to help V.Isualize by providing her a summa
 ## Business Recommendations for addressing disparities
 1. Increasing the number of drivers in Rural & Subrban cities can reduce the Average fare per driver.
 2. Reducing the cost of average fare per ride and making it more affordable in rural & suburban cities can increase the total number of rides.
-3. Increase in 
+3. Decrease the number of riders in Urban cities as total number of drivers is more than total rides which indicates that some drivers might not be having enough work.
